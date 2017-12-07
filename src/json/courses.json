@@ -1,0 +1,50 @@
+{
+  "Sistemas Microinformáticos y Redes": {
+    "type": "Grado Medio"
+  },
+  "Instalaciones de Telecomunicaciones": {
+    "type": "Grado Medio"
+  },
+  "Instalaciones Eléctricas y Automatismos": {
+    "type": "Grado Medio"
+  },
+  "Gestión Administrativa": {
+    "type": "Grado Medio"
+  },
+  "Gestión Comercial": {
+    "type": "Grado Medio"
+  },
+  "Administración y Finanzas": {
+    "type": "Grado Superior"
+  },
+  "Desarrollo de Aplicaciones Web": {
+    "type": "Grado Superior"
+  },
+  "Administración de Sistemas Informáticos en Red": {
+    "type": "Grado Superior"
+  },
+  "Realización de Audiovisuales y Espectáculos": {
+    "type": "Grado Superior"
+  },
+  "Comercio Internacional": {
+    "type": "Grado Superior"
+  },
+  "Mantenimiento Electrónico": {
+    "type": "Grado Superior"
+  },
+  "Desarrollo de Aplicaciones Multiplataforma": {
+    "type": "Grado Superior"
+  },
+  "Marketing y Publicidad": {
+    "type": "Grado Superior"
+  },
+  "Comercio y Marketing": {
+    "type": "Grado Superior"
+  },
+  "Transporte y Logística": {
+    "type": "Grado Superior"
+  },
+  "Administración de Sistemas Informáticos y Redes": {
+    "type": "Grado Superior"
+  }
+}

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" class=" no-js">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">  
+  <link rel="stylesheet" href="css/style.css">
+  <title>Erasmus CIFP</title>
+</head>
+<body>
+  <div class="navbar container-fluid">
+    <div class="row">
+      <header class="col-lg-12">
+        <h1>Erasmus CIFP</h1>
+        <p>por Marcos Dacosta</p>
+      </header>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-lg-3 mobility" data-toggle="collapse">
+        <h3>Elige tipo de movilidad</h3>
+        <select id="mobilitySelect">
+          <option value="Todos">Todos</option>
+          <option value="Grado Superior">Grado Superior</option>
+          <option value="Grado Medio">Grado Medio</option>
+          <option value="Profesorado">Profesorado</option>
+        </select>
+      </div>
+      <div class="col-md-8 col-lg-4 search">
+        <div class="searchSelect">
+          <h3>Buscar según</h3>
+          <div class="container-fluid toggleOptions">
+            <div class="col-xs-4">
+              <h4>Nombre de ciclo</h4>
+            </div>
+            <div class="col-xs-4">
+              <label class="switch">
+                <input id="toggle" type="checkbox">
+                <span class="slider round"></span>
+              </label>
+            </div>
+            <div class="col-xs-4">
+              <h4>País</h4>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-12 searchOptions">
+          <div id="searchByCourse"></div>
+          <div id="searchByCountry"></div>
+        </div>
+      </div>
+    <div id="map" class="col-lg-5"></div>
+  </div>
+  </div>
+  
+
+  <!-- SCRIPTS -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCLBKoPkFfN3jXudQchPNZ1qLzUv39cn64"></script>
+  <script src="js/modernizr-custom.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

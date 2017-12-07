@@ -1,0 +1,132 @@
+{
+  "Barcellona Pozzo di Gotto": {
+    "country": "Italia",
+    "longitude": "15.212848",
+    "latitude": "38.147262"
+  },
+  "Vicenza": {
+    "country": "Italia",
+    "longitude": "11.535421",
+    "latitude": "45.545479"
+  },
+  "Brescia": {
+    "country": "Italia",
+    "longitude": "10.211802",
+    "latitude": "45.541553"
+  },
+  "Catania": {
+    "country": "Italia",
+    "longitude": "15.083030",
+    "latitude": "37.507877"
+  },
+  "Bologna": {
+    "country": "Italia",
+    "longitude": "11.342616",
+    "latitude": "44.494887"
+  },
+  "Tolentino": {
+    "country": "Italia",
+    "longitude": "13.286336",
+    "latitude": "43.211178"
+  },
+  "Brighton": {
+    "country": "Reino Unido",
+    "longitude": "-0.137163",
+    "latitude": "50.822530"
+  },
+  "Londres": {
+    "country": "Reino Unido",
+    "longitude": "-0.127758",
+    "latitude": "51.507351"
+  },
+  "Bournemonth": {
+    "country": "Reino Unido",
+    "longitude": "-1.880769",
+    "latitude": "50.719164"
+  },
+  "Plymouth": {
+    "country": "Reino Unido",
+    "longitude": "-4.142656",
+    "latitude": "50.375456"
+  },
+  "Oxford": {
+    "country": "Reino Unido",
+    "longitude": "-1.257726",
+    "latitude": "51.752021"
+  },
+  "Cracovia": {
+    "country": "Polonia",
+    "longitude": "19.944980",
+    "latitude": "50.064650"
+  },
+  "Wroclaw": {
+    "country": "Polonia",
+    "longitude": "17.038538",
+    "latitude": "51.107885"
+  },
+  "La Valletta": {
+    "country": "Malta",
+    "longitude": "14.514553",
+    "latitude": "35.898908"
+  },
+  "Iklin": {
+    "country": "Malta",
+    "longitude": "14.457773",
+    "latitude": "35.909877"
+  },
+  "Attard": {
+    "country": "Malta",
+    "longitude": "14.419932",
+    "latitude": "35.890497"
+  },
+  "Qormi": {
+    "country": "Malta",
+    "longitude": "14.469419",
+    "latitude": "35.876439"
+  },
+  "Berlin": {
+    "country": "Alemania",
+    "longitude": "13.404954",
+    "latitude": "52.520007"
+  },
+  "Amsterdam": {
+    "country": "Holanda",
+    "longitude": "4.895168",
+    "latitude": "52.370216"
+  },
+  "Praga": {
+    "country": "República Checa",
+    "longitude": "14.437800",
+    "latitude": "50.075538"
+  },
+  "Sortland": {
+    "country": "Noruega",
+    "longitude": "15.412809",
+    "latitude": "68.695439"
+  },
+  "Cork": {
+    "country": "Irlanda",
+    "longitude": "-8.486316",
+    "latitude": "51.896892"
+  },
+  "Dublin": {
+    "country": "Irlanda",
+    "longitude": "-6.260310",
+    "latitude": "53.349805"
+  },
+  "Carlow": {
+    "country": "Irlanda",
+    "longitude": "-6.934136",
+    "latitude": "52.836507"
+  },
+  "Ballinasloe": {
+    "country": "Irlanda",
+    "longitude": "-8.226947",
+    "latitude": "53.328762"
+  },
+  "Budapest": {
+    "country": "Hungría",
+    "longitude": "19.040235",
+    "latitude": "47.497912"
+  } 
+}
